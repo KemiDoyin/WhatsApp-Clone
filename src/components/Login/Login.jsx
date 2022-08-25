@@ -15,7 +15,7 @@ const Login = () => {
     </FormControl>
     <ButtonGroup>
         <Button colorScheme='blue' type='submit'>Login</Button>
-        <Button>SIgn UP</Button>
+        <Button>Sign Up</Button>
     </ButtonGroup>
     </VStack>
   
